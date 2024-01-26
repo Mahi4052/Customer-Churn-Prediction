@@ -72,7 +72,7 @@ __NOTE: 0(NotChurn) and 1(Churn)__
 Customer churn prediction models, the Logistic Regression (LR) and RandomForestClassifier (RF) have demonstrated notable performance, achieving AUC scores of 0.67 and 0.58, respectively. These models showcase their efficency in discerning patterns within our dataset, making them valuable tools for predicting customer churn. While the DecisionTreeClassifier yielded a slightly lower AUC of 0.55, it still contributes insights to the analysis.
 
 # For More Infromation
-Please do check out this [Customer_Churn_Prediction](https://github.com/Mahi4052/Customer-Churn-Prediction/blob/main/Customer_Churn_Prediction.ipynb)
+Please do check this for full project [Customer_Churn_Prediction](https://github.com/Mahi4052/Customer-Churn-Prediction/blob/main/Customer_Churn_Prediction.ipynb)
 
 Data Set used [Data File](https://github.com/Mahi4052/Customer-Churn-Prediction/blob/main/Churn_Modelling.csv)
     
