@@ -4,15 +4,12 @@
 Author: __Mahesh Ratnaparkhe__
 
 ## Problem Description
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 As markets are becoming increasingly competitive, extensive study has demonstrated to businesses how essential customers are to both their profitability and future performance. Although recruiting new customers is important, particularly in the early stages of a business's growth, the after-effects of losing current customers in the next phases of company's growth can be critical for its future. This has turned out to be especially true for the banking section, where customer churn is one of the biggest factors in the evaluation of a bank's value. Customer churn, also known as customer retention, refers to when customers stop using a company’s product or service.
 
 ## Project Overview
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The customer churn prediction, employing comprehensive data science techniques. It encompasses thorough data analysis, visualization, and feature engineering to extract valuable insights from customer demographics and usage patterns. The project involves building machine learning models, including logistic regression, random forest classifier, and decision tree, to predict customer churn. Model performance is rigorously assessed using key metrics such as confusion matrix and AUC-ROC. The dataset, located as Churn_Modelling in the files section, serves as a foundation for training and evaluation.
 
 ## Data Understanding 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### NOTE: 0(NotChurn) and 1(Churn)
     i. Visualizing Bar Graph of Customer Churn distribution
 ![image](https://github.com/Mahi4052/Customer-Churn-Prediction/assets/95848665/b4722565-428b-498a-83cb-16b09f708b72)
@@ -48,7 +45,6 @@ The customer churn prediction, employing comprehensive data science techniques. 
 ![image](https://github.com/Mahi4052/Customer-Churn-Prediction/assets/95848665/d037d3bc-44dc-4bc9-bc4e-316b0fff9153)
 
 ## Modelling
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     xii. LogisticRegression Machine Learning Model
 ![image](https://github.com/Mahi4052/Customer-Churn-Prediction/assets/95848665/eeb3fb93-6ada-4332-9a22-64926dfefe7a)
 
@@ -59,7 +55,6 @@ The customer churn prediction, employing comprehensive data science techniques. 
 ![image](https://github.com/Mahi4052/Customer-Churn-Prediction/assets/95848665/6daab9c8-8065-4457-9cca-4e6595065b8c)
 
 ## Evaluation
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     xv. Confusion Matrix for above three Machine Learning Models
 ![image](https://github.com/Mahi4052/Customer-Churn-Prediction/assets/95848665/b391a80a-8f39-482b-b521-05fddaaed150)
 
@@ -75,11 +70,9 @@ The customer churn prediction, employing comprehensive data science techniques. 
 ![image](https://github.com/Mahi4052/Customer-Churn-Prediction/assets/95848665/57aa177e-2944-4820-89f5-8fb51073d9e9)
 
 ## Conculsion
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Customer churn prediction models, the Logistic Regression (LR) and RandomForestClassifier (RF) have demonstrated notable performance, achieving AUC scores of 0.67 and 0.58, respectively. These models showcase their efficency in discerning patterns within our dataset, making them valuable tools for predicting customer churn. While the DecisionTreeClassifier yielded a slightly lower AUC of 0.55, it still contributes insights to the analysis.
 
 ## For More Infromation
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Please do check this for full project [Customer_Churn_Prediction](https://github.com/Mahi4052/Customer-Churn-Prediction/blob/main/Customer_Churn_Prediction.ipynb)
 
 Data Set used [Data File](https://github.com/Mahi4052/Customer-Churn-Prediction/blob/main/Churn_Modelling.csv)
