@@ -1,7 +1,7 @@
 # Customer-Churn-Prediction
 ![image](https://github.com/Mahi4052/Customer-Churn-Prediction/assets/95848665/d2b4e820-1029-41ff-ab64-074f900543fa)
 
-Author: __Mahesh Ratnaparkhe__
+__Author:__ __Mahesh Ratnaparkhe__
 
 ## Problem Description
 As markets are becoming increasingly competitive, extensive study has demonstrated to businesses how essential customers are to both their profitability and future performance. Although recruiting new customers is important, particularly in the early stages of a business's growth, the after-effects of losing current customers in the next phases of company's growth can be critical for its future. This has turned out to be especially true for the banking section, where customer churn is one of the biggest factors in the evaluation of a bank's value. Customer churn, also known as customer retention, refers to when customers stop using a company’s product or service.
